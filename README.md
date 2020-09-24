@@ -5,6 +5,8 @@ To load a new google font use the function FM.loadFont(). This function returns 
 
 Ie to load Roboto https://fonts.google.com/specimen/Roboto:
 
+```
 FM.loadFont(Roboto).then(function(){
   // The robot font is loaded
 })
+```
