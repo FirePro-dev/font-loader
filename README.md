@@ -9,6 +9,6 @@ For example to to load Roboto https://fonts.google.com/specimen/Roboto:
 
 ```
 FM.loadFont("Roboto").then(function(){
-  // The robot font is loaded
+  // The Roboto font is loaded
 })
 ```
