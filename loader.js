@@ -68,7 +68,7 @@ FM.isFontLoaded = function(fontName){
 // ****************************************
 // -- loadFont ----------------------------
 // ****************************************
-FP.loadFont = function(fontName){
+FM.loadFont = function(fontName){
   return new Promise((resolve, reject) => {
 
     function load(){
